@@ -7,7 +7,7 @@ When you are in a map for too long, the game starts spawning enemies around you 
 
 ## Installation
 
-Get and install this mod via Nexus Mods and Vortex (guide also in the link): (todo)
+Get and install this mod via Nexus Mods and Vortex (guide also in the link): <https://www.nexusmods.com/madeinabyssbinarystarfallingintodarkness/mods/11>
 
 ## Manual / Advanced Installation
 
